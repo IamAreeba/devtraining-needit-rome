@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>5a9469e553015610f8da38f0a0490e1e</logo>
+        <menu/>
+        <name>Hello World</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_hello_world</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Demo App</short_description>
+        <source>x_snc_hello_world</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 16:52:00</sys_created_on>
+        <sys_id>b1942ded53cd1610f8da38f0a0490e8b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 16:52:03</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1942ded53cd1610f8da38f0a0490e8b"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>Hello World App Logo.jfif</file_name>
+        <hash>c62fd3cead54febbac0dca6bcefd4d13a886ff1c54c2d041f9e3e8c594cb56ce</hash>
+        <image_height>220</image_height>
+        <image_width>220</image_width>
+        <size_bytes>5891</size_bytes>
+        <size_compressed>4636</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 16:52:02</sys_created_on>
+        <sys_id>5a9469e553015610f8da38f0a0490e1e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 16:52:03</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>b1942ded53cd1610f8da38f0a0490e8b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Hello World App Logo.jfif" sys_id="5a9469e553015610f8da38f0a0490e1e">5a9469e553015610f8da38f0a0490e1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 16:52:02</sys_created_on>
+        <sys_id>9a9469e553015610f8da38f0a0490e1e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>3Vh7NJRr27/HYBxiHIYcYoSkRKJUxKAQtkRKcirsTQkhh2EYUU6p2UhKZSSnFNOBiJBzRc41CY1jTmGG0UxjZp5v9H7vfvd+17vWd/jj+9Z6r2dd/zzPta77+t33dfjdD/QJGgUSNpbWlgAGg4HTvAdAQ+AgEEEghBGCIsJCwqKiIhuQ8hJIcXGksuxGKXl1FY0taipqqpra+3U1txtoqarpHdIzMDI2NTXV0LW0tTCx2Y8xNV53AhMVFUWKIZUkJJSMt6ltM/4fC/QaSAqBYTAMh6kCPkkYXBIGtQA0ADAB2E8B/ykwPji/gCBCSFhElGdQKQH4YHA4Hz9cQICfn/c1hvcd8EsKSG3eZSYo7XAGoRqM0ruUfl9Izfxpo4xjL1Vd3yskXlhEdqOcvMIWja2a27bv3mOwd99+w4OHLCytDlvbHHM6fsL5pMspb59ff/P1O3su9GJYeEQkNirh8pXEpOSU1IzMG1k3s2/dzsl/UFBYVFzysPTZ84rKF1XVL2uamlta29rfvH3X1z/w4SP50+DnsfGJyamv0zOzc7TlFfrqdwbzB2sdFwzAYX+Xf4lLkoeLj58fzo9YxwXji1g3kOQX2LxLUMrMAXEmWFpV75IQyjz9/tNGYTV9R6qMV0iviKz67rEttHVoP5H994DF/6+Q/QHsH7g+gw1wGO/w4JIAA77baObHifyfKwnOLJxYCMZ5hhWdZTBkDW4eUr2K3XB+Ic5WX9zezbsI8THOeDn1B4YrbS+N72l+hB89T5ywYmvkakDgftIJCLwexLTFmTzJr7eHwOX+Fgpdd47CVNzK7IWAcHFKw8yZDw1UA3taHvKxJikTAmO7aXs5GwyruIJvubvxTWfHg1hyYUFssUy2H3xeRGsSAky7A3YQOCheBoFLz/DX0NScyDvcRCVXCMB9IKAAWE3/BuH0FV979ct1ucik4+qbViI2o9N3w1ZjZN6x99KUyKkHlAJi8AkXH/fazAFxJ843cUEzecb7MCfgYIH6qcqJ9R7MOxDYsvEUBMonIGAmsyo84z+1lNKw7BBGYi1i6JKmmypj4NTuxnrFV9QthZ01MYV0hk0b9rc0I8G3Apaxi7qG3h/rYx+dyCnjXJZq9I0JDdrQLNWO6kydGIa/B6doe+7lEscDbPqPZHZWJI71aXTFHo2JniiKHq+rGstOwO2NHrV1vV2xZju7mJW2/F4u/MSwZS+xNk381iqJWDpSVFZy0myHQQT5BO2XXaoW+qoNAzyvLn/zGvPT6/N1ryPEG8r7l67fXvIY5MX6RbGOql22HiubYUPxy/Brfvbi8Gd9RnD7L1Hk7tVz/ccbnsSfPL8UGDB+y8sp9TeLYG4PIgdUjkcbGRu1sLKK7my9fVasucDuLjuP3o272I074Y46CrP414roxfBDYJJYzImx5Wj1+HfXC0PgLcaexcpmOef1/N0MRDlnRhaPI65UEKU9XTyZjqK1JT5D6gsbDr25sP+tPMnFWOuvG6+UzdZGC+J7MgMgEKsCgXE/CFx5MNrNkgpoWGpBs+2wW1CweTy1AicPAXO7Kg4zAQIpD7iyhATMjPULCDRI4Gl7Jm8cRfByrqmX6ssRNqAwxpFcDQLzlMkGXmZpDHHZZhBoIWc4mCpXQUDUqpFIVx/CU5IxzBzMmB9Tn3v5TtAaDQEBaQ9rCxBF+feNaKCe7+NFTnRz/IpN/7EjL/QNkyWPW1rqXcgTD3XXxjIaMT+2zkLA0xECNnQFoJmf+lORNj+ix4PYN9z9ubUEDr/zwNZCXB1tL9dGpxIC7u3ceE34zfxUTZCfuliJSSQU4/ZV0ayGmmsLQuoasuMeboZdGJxc1m/HB5ruO6VZPt2GFvNsikX1r4Y3SNc1F4S0Ti0IdRYm9ueaNqJgzQ4eCaOky8vMWjPDxzWPw3Wzf7VYxjWZr6ovyk3/OEFha9YGsRR5G0GVw9PegWVDrcc08qVxqs9Nf9mnQSWKcS2lKpYEubm9yuJRawp145RE0hheaJbVy1ur0SJn504/87mTAfsnN3iv5onLpmo9YsaMEpl2q9gFj6VvT82QOV3SodK/A7gamZ4n7phaWzZ7LX8+ouZ8hrBCX8Tlajmxiol9jFJed/G4NhaUcCq3qriQWxye4/68nC5+Z1KLrO4jILe6/3sZNhbh6uFqNJO7Jf7roQn/NpHpkazrGDVTZQsLz48VtkvIcxmzrLuCisms6/eTvJAXYs5dASgHCxAjTbXnWrPw5IGGvjrBV2ujRHYmHQKkh/jCKLGfFuuK+KcD0JqT7vvnLoeCday3P+deZwUlSjJX+OTZqMi04W5v/6rOgEfLN7y7e5y7KumyT0vcz+Jh2jrfdLZUVV9v6/d5avDR7Rk8ga4RdwACXBQhlbMDvwQBCJyqJVwLrsCIX5yhKGYsb9m3KmmM3UybThVS40qJ2RJZkUE00ilmXycExCo+hrjkLEpZz9nfoMN2Nl+1DkPGk2XD5xT8k8vz06TjXKpg3YF22CX2NsJGfHdhA5d/SwQEkNMZQ6Mxk9TDvR2ojdevFwucFFRJmPfglYpwQwoEZk5/wFO1IdAWp0pDX1m1F/G0Ovuo6amteqxXwIXGbPUw5VHyE7YbBDKOF+HJ/niO7Idxw8Ti6EdunAcOtbmLAbW4twU6n5SeRTtXsV0dKSL013mZ0650NP19Cbzx0Yd6GP5NcymeXMpbyuvV8zfZXGwDZ9l/gPvn93H7CMr4Nz/K8eRvDSzJYrZJn9dHdljBoJumn0fAYsGFRtRLxKeF1q3X89NfRZRLKqZ/H8RfhkBkH1PayR7JnLBuqOUMbzMYlK8WeSwiFRN3nouCjbAjaAI9Azsq9v3q80LiakrWkQNtO8wTvhlM01jOt2cUFqaT9lyNsWyytD5z+jACRq4hHvUfMDGMDFx07bCL+qKRMXhmzbjRjLgj3ubpd6Pk7iOIEpIedTqJhLN/3Fj86VDXsu6X0V+9PL61P0FzAitg80Sl3TM6r/YXzu8qkSpo2jSRcb0wMfYK/pgH2mOERj4WP2TaRz/8CUvSJAZiT/bapHFs8RNFryx/siCTFOZWCKhzMPNznrMeCR4xf87XP7gSvIfcQZHGT+bPe64O42dU6+//c+PfVIlyMBUIZ2W31F6zGptquPI+devN9BaG8m8RqhJOAu2IK2/fzsREjmvm8dUGbcTZEFtzN/bTU3ZIwc93qD8X3otNK3U67T21KXPgOzsyRxNeT/VtjW4QmiEOEgd7Rpqe6be932z+cg6JOPARAuydg7zD8+T12tcJ64033cFUiXC9XtV2wk9bNcbgS2/A4J2QF9/VaWmjp6OdrYvY4fXP+gPKinpHcw97n+zM97rzZNfd0xOF2OO8Rkuh9mz0pPMlQYCPR2xSyq2aKZKBdKTMnOFAuEEf3k92JaDNwVm7dkqtSCyYfhRBwjebuuN7RNBs4SCuxkuKIs6R2BZ1IAqX4173rCD/mMaKmg+frp6g4YqbEgo2Y4Jitj5iRr0zUnyjNlCm6v40ZVNBcsMIJSF9FbFc9ohIQCo918gcm/d3cb3XZ/cylDtXOr1CUs+P0zn3uW6x9qEt/uGR/uF3IV2UPHgevOe4IW8HUzXzkPmxf57YZCJOmlcpscTV1Z10ktlPk3UFdFJ2PY+QvbX42DBfDYEeixjzKIW/9P+jCO11QhA6sZQ43RgVeA8rM1t7ffTW1BaDKzgf79zLvsuMMaJ4vTJa8S12B8PO/6x/pe32QN/QXMHI0Q3EktXyJbcgpk0scPUIWTlloXh3dUQaG2jPRgQXRQausgWodmFOsMDFaentT9aG7mqiGQvWechtNM+kX6mkFB367QKpW0JDmm4IRxhCqRqT639/IFbxntFYWUPKVH3L8uXMb637Pk2LJuRWq9C5bnSiAt2zav6U7AMvOAT88l44PogPEUG3YGadufvcrYqYvhY9C0zztSdG6jYyVlxj1lHEPab+GPfhhPW9MgMzX+mAm3NuC4i1UsSOT/vbv1paRpOYjjm62d+sWq2/c3M9WrrwwxTix6qw2mLq1kbXk/S+0zU35fKl7je6qCveu7S69sm4mk6C6bR2SEVI352+24M4PmGfFEWKH1Gv3hbqrRZge+tSG77mNaefFaVcubMZAkl9zDnbkap5X5k8u06vFVHZLiCPHjkw3VeHaYpwjFwaXZgqL2jDTlgHpBE69FXEFNGOeq8Yrd7cbspc5RKDxzm+FwKHoPioqJcnaFl5py+YVbklzHJfPMV5UzMdqC9ufc6qG466cjdS75mlQw96fCgzfRE5+37vCabL+Frdue+RF0O8bo5bWa4dOqjyVIUzR3dBMRVHOz/jkwO9/V9qF8Xva17sMDHPZ02oGScZXwFYYnND0tWJrAFl168VtkdLa72/uNzZ1612qYr2PrhKd0/ZwBMT0ZYpcUOfTc7Pud0QoE3zYiQfxmeSf/dHLyvU84ZbCoauZoqaJ1u9Dtr+ef9OnK1Y7RPFSy/eJbar7AomvnuVWkeZILNTc4I4sUiO7AAsIYIqO/3tms4dkqv7G8Q7kvA1Vy6//KOOSjGTeZuGnHcsRPxXwSH1oAH0CqUuMBLhWdNzwLO4I0Brx7Ejv3fLYXYkt/NLUuTfMGSGcTF940kOfWGaA8I6ahnyQkrhEk5E/C3C66OI9F4LFIxu/1dStLIUj1+27+fWF3KzZnb/45KRtcxoofzQrCFzItAsIVKJvc2/qpkKttIN/3oBMttI/Y718H2C0Qkfrfaeh5hrTkxyqPLtB0x8c/jCWrXqinxMFq4Cw1K68EWAVsAV/ujzKnXY/eDuWLcn2YPVPhJmjY38UcpFpczm1r3KujT+mnst5hJOVqjtQ5f9DDcw5o7E8GrmPNVJgtnx2kTh5rjZ17Mb/Sa9MbuNsqw4y07ku7izH0woE7PaA1M7Th/ed8Dn2jSPObaPHccJ0HQmGmWzwxvOuA5hhzqd9H78ipbruhAiBCecm1x1t4zxPl4zoJOsP/yur96Q78gF4xL4SNDCnXFkY/SZYkntyaNtTbpYvRaDGs7hLpP8V6jPXVWWn5pVqinP32lGLM6mhXVXBkbatitUJQS60wdl8n7/6oo186NQlMwYMhQkgaizMlZd35+GJZ6DwDd95m9xhkp8vVxlnHJttiPn/XCKepseVqr6c8rqWOhsd6F37J+yHjt9lR3xiNl10TChILx3U2uA0GYUa+WtyTRF7r0rFdkijBMhr+1wpOl8iD2m0ZT2srFL3KozBHMKDL5gPiyfidV/uRYwWZUT4m696eZSwmVxq3fREoYnGK3diIMPz14dH1GwzBLRGgZTWRPnvSy6jzxQCb4e2dhNcHerm5ok60105limP9HVO2K/Uk5ubkAF7d4pNDKjf7I9ekPyLPztZmXHapWHcj+yM4LTB7hAifBtnVIpR01zLib9MMZqkAL0/fcWWGwWHD8Sjl5SGKHubFFsgFd+iu/TKil/cdPKq0CmS0htzp/Eo/4QwELA1AjPFgqi5iG3RH7RT5G5kX5XMpURRFAzkek3lcech8DnAI/gCVIy2WRvfJ/8Y5VK2998BU7WSlka5iZ8ronGE3LSwmmPWcYVGaVxXc/1Ek2qG1tBiKc4e2cMifnsdWvQ1kHtYutyje3h2x926c8FxxlzroVRlFcjA/cE6P9y7VJG396bbugaz0AYo2maJiN4nzbtUl3l87S/TNvnDGHX1cPOw/BLxJI9XyMiQikjHWERWu8PPHaZDM1oYeyGifFmP/oQ+88TiGTyF15hKrBOD3gKm/XcibPjGV4tw5ODIZCXyrpM37PMm+KjVi3uvioECpIj4AfP+tsF5L9U+AzxTwW8h5f2/I1o5IM386E6GBu6yB93Hi0CzbdZSbqV0RGN/X41uuy+h6sveIOwex0vbhzFNa8V0YR3YsbMmXhuvEIxh4GGgKQVW9MTyZuYB50gUM9j4ONa/TN5SF3egYmOQYAldI7IGMazLdDU+zgMj5+LHeOuESCQTLLPjzvQzEXt5BGKmc2leAoPJA2Fb7pChQCHf4/92iKGq1pnkgpWkMyj9byF8hIfQiCmnbcDDhAQ2cibGXSJD5gl3rBmptJZ/3ZxbWcLUqmn7bglpgcIeia8Sx99TpOvKKvws1/NeVkFnJbYY9FKifDF2IIMa+OVEzP/H/8F8+Mw0OB/AJpNIDkDFwAA</data>
+        <length>6168</length>
+        <position>1</position>
+        <sys_attachment display_value="Hello World App Logo.jfif" sys_id="5a9469e553015610f8da38f0a0490e1e">5a9469e553015610f8da38f0a0490e1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 16:52:02</sys_created_on>
+        <sys_id>1e9469e553015610f8da38f0a0490e1e</sys_id>
+    </sys_attachment_doc>
+</record_update>
